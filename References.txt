@@ -1,0 +1,7 @@
+My YouTube Channel for few K8s Tutorials : https://www.youtube.com/channel/UC-Hv6dZTH_9rj_nezOSa9Iw
+
+Good Book to Refer : Kubernetes in Action - Marko Luksa, Kubernetes up & running - Kelsey etc etc
+
+Udemy Course : CKA & CKAD : https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/ -> Mumshad Mannambeth
+
+
